@@ -18,4 +18,4 @@
 
 ## 결과
 
-<img src="./Image/teachablemachine_result.png = 250px"/>
+<img src="./Image/teachablemachine_result.png" width="200"/>
