@@ -16,3 +16,6 @@
 - 1️⃣  원본 프로젝트를 기반으로 Kotlin 소스로 부분 변경
 - 2️⃣  전면/후면 카메라 스위치 버튼 추가 예정
 
+## 결과
+
+<img src="./Image/teachablemachine_result.png" width="200"/>
