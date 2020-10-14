@@ -11,6 +11,7 @@
 
 ## 출처
 - https://github.com/mstale007/Teachable_Machine_Mobile
+- https://github.com/tensorflow/examples/tree/master/lite/examples/image_classification/android
 
 ## 수정 사항 및 앞으로 추가될 사항
 - 1️⃣  원본 프로젝트를 기반으로 Kotlin 소스로 부분 변경
@@ -18,4 +19,4 @@
 
 ## 결과
 
-<img src="./Image/teachablemachine_result.png" width="200"/>
+<img src="./Image/teachablemachine_result.png" width="250"/>
