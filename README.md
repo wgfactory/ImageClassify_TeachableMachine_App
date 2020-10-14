@@ -5,7 +5,8 @@
 ## 이 프로젝트는 Teachable Machine 에서 학습한 결과를 Android App에서 실행할 수 있습니다. 🚀
 - 1️⃣  Teachable Machine 에서 이미지 학습
 - 2️⃣  학습된 결과 파일 TF Lite와 label.txt 파일 다운로드
-- 3️⃣  Android APK 설치 or Android Studio Project 파일을 Clone 받아서 직접! 업로드
+- 3️⃣  Android APK 설치 or Android Studio Project 파일을 Clone 받아서 직접! 업로드 
+    - 💙 [APK 바로 다운로드 링크!](https://www.dropbox.com/s/bpo1og78f4f75gs/ImageClassify_TM_App.apk?dl=1)
 - 4️⃣  이미지 분류가 잘 수행되는지 확인!
 - 5️⃣  현재는 전면 카메라 버전!
 
