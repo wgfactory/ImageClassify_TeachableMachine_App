@@ -9,7 +9,8 @@
     - 💙 [APK 바로 다운로드 링크!](https://www.dropbox.com/s/bpo1og78f4f75gs/ImageClassify_TM_App.apk?dl=1)
 - 4️⃣  이미지 분류가 잘 수행되는지 확인!
 - 5️⃣  현재는 전면 카메라 버전!
-- 6️⃣ (주의할 점) TF Lite 파일과 labe 파일을 선택하여 넣으면 토스트 메세지가 표시됩니다. 토스트 메세지가 사라지고 Start를 눌러주세요! (파일 읽어오는 시간의 기다림!!)🙏
+- 6️⃣ (주의할 점) TF Lite 파일과 labe 파일을 선택하여 넣으면 토스트 메세지가 표시됩니다. 
+토스트 메세지가 사라지고 Start를 눌러주세요! (파일 읽어오는 시간의 기다림!!)🙏
 
 ## 출처
 - https://github.com/mstale007/Teachable_Machine_Mobile
