@@ -1,6 +1,6 @@
 # ImageClassify_TeachableMachine_App
 
-## TensorFlow Lite image classification Android example application 
+## TensorFlow Lite Image Classification Android Example Application 
 
 ## 이 프로젝트는 Teachable Machine 에서 학습한 결과를 Android App에서 실행할 수 있습니다. 🚀
 - 1️⃣  Teachable Machine 에서 이미지 학습
@@ -17,8 +17,8 @@
 - https://github.com/tensorflow/examples/tree/master/lite/examples/image_classification/android
 
 ## 수정 사항 및 앞으로 추가될 사항
-- 1️⃣  원본 프로젝트를 기반으로 Kotlin 소스로 부분 변경
-- 2️⃣  전면/후면 카메라 스위치 버튼 추가 예정
+- ✔️ 원본 프로젝트를 기반으로 Kotlin 소스로 부분 변경
+- ✔️ 전면/후면 카메라 스위치 버튼 추가 예정
 
 ## 결과
 
